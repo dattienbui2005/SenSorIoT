@@ -8,7 +8,7 @@ const API_URL = "http://localhost:8080/api/profile";
 const PROFILE_LINKS = {
   github: {
     label: "Github:",
-    url: "https://github.com/dieulinh-max/IoT",
+    url: "https://github.com/dattienbui2005/SenSorIoT.git",
   },
   figma: {
     label: "Figma:",
