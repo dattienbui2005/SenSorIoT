@@ -20,7 +20,7 @@ const PROFILE_LINKS = {
   },
   pdf: {
     label: "PDF mô tả dự án:",
-    url: "https://docs.google.com/document/d/1TXR0Wd-vAHg5NkOI1CESGBNqrZC5ocJA/edit",
+    url: "https://docs.google.com/document/d/1b7eM3WtG9iuH_8SGV2PgkKcWwGC15Hhp/edit",
   },
 };
 
